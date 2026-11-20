@@ -1,0 +1,7 @@
+# arquivos que nao precisam ir pro GitHub
+.DS_Store
+Thumbs.db
+node_modules/
+*.log
+.vscode/
+.idea/
